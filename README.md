@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Dogra</h1>
+<h1 align="center">Hi , I'm Shubham Dogra</h1>
 <h3 align="center">B.Tech Computer Science Engineering Student | Java Developer | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -7,25 +7,25 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 B.Tech Computer Science Engineering Student
+ B.Tech Computer Science Engineering Student
 
 💻 Passionate about Software Development and Artificial Intelligence
 
-🌱 Currently Learning
+ Currently Learning
 - Machine Learning
 - Deep Learning
 - Python
 - Data Structures & Algorithms
 
-🏆 Solving problems on LeetCode and Codeforces
+ Solving problems on LeetCode and Codeforces
 
-🚀 Always eager to learn new technologies and build impactful projects.
+ Always eager to learn new technologies and build impactful projects.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -53,60 +53,35 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-🔹 Vehicle Demand Prediction using Machine Learning
+. Fake vs Real Image Classification
 
-🔹 Fake vs Real Image Classification
+. Student Record Management System (Java File Handling)
 
-🔹 Student Record Management System (Java File Handling)
+. Internship Project – File Handling in Java
+---
 
-🔹 Internship Project – File Handling in Java
+## Current Goals
+
+. Master Data Structures & Algorithms
+
+. Learn Deep Learning
+
+. Build Full Stack Applications
+
+. Contribute to Open Source
+
+. Crack a Software Development Role
 
 ---
 
-## 📈 GitHub Stats
+##  Connect With Me
 
-<p align="center">
+Email: dograshubham333@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamDogra04&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDogra04&layout=compact&theme=tokyonight"/>
-
-</p>
+ LinkedIn: https://www.linkedin.com/in/shubham-dogra-676a85367/
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShubhamDogra04&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🎯 Current Goals
-
-✔ Master Data Structures & Algorithms
-
-✔ Learn Deep Learning
-
-✔ Build Full Stack Applications
-
-✔ Contribute to Open Source
-
-✔ Crack a Software Development Role
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
----
-
-⭐ *"Code. Learn. Build. Repeat."*
+ *"Code. Learn. Build. Repeat."*
