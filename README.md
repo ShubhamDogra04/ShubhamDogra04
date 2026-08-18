@@ -55,7 +55,7 @@
 
 . Student Record Management System (Java File Handling)
 
-. Internship Project – Rag ChatBot
+. Internship Project – Rag ChatBot.
 ---
 
 ## Current Goals
