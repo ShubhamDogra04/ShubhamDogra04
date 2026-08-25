@@ -1,30 +1,28 @@
 <div align="center">
 
-# Shubham Dogra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2EE85A&height=200&section=header&text=Shubham%20Dogra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20Java%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" />
 
-<img src="https://github.com/ShubhamDogra04.png" width="150" style="border-radius:50%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE85A&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Engineering;Java+Developer+%7C+ML+Enthusiast;Solving+DSA+on+LeetCode+%26+Codeforces;Learning+ML+%2F+Deep+Learning" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=ShubhamDogra04&label=Profile%20Views&color=2EE85A&style=flat" alt="profile views" />
+<img src="https://github.com/ShubhamDogra04.png" width="140" style="border-radius:50%;margin-top:10px" />
 
 </div>
 
----
+<br>
 
-### `~/ whoami`
-
-```
-Shubham Dogra
-B.Tech, Computer Science Engineering
-Passionate about Software Development & Artificial Intelligence
-Solving problems on LeetCode and Codeforces
-Always eager to learn new technologies and build impactful projects.
+```bash
+shubham@github:~$ whoami
 ```
 
----
+```
+> B.Tech Computer Science Engineering Student
+> Java Developer | Machine Learning Enthusiast
+> Currently learning: ML, Deep Learning, Python, DSA
+> Solving problems on LeetCode & Codeforces
+> Always eager to learn new tech and build impactful projects
+```
 
-### `~/ toolbox`
+```bash
+shubham@github:~$ cat skills.txt
+```
 
 <div align="center">
 
@@ -40,9 +38,9 @@ Always eager to learn new technologies and build impactful projects.
 
 </div>
 
----
-
-### `~/ contribution calendar`
+```bash
+shubham@github:~$ ls contribution-calendar/
+```
 
 <div align="center">
 
@@ -50,9 +48,9 @@ Always eager to learn new technologies and build impactful projects.
 
 </div>
 
----
-
-### `~/ the numbers`
+```bash
+shubham@github:~$ ./stats.sh --all
+```
 
 <div align="center">
 
@@ -67,32 +65,29 @@ Always eager to learn new technologies and build impactful projects.
 
 </div>
 
----
-
-### `~/ featured builds`
-
-- **Fake vs Real Image Classification** — image authenticity detection model
-- **Student Record Management System** — Java file-handling based CRUD system
-- **Internship Project – RAG Chatbot** — retrieval-augmented chatbot built during internship
-
----
-
-### `~/ current goals`
-
-- Master Data Structures & Algorithms
-- Learn Deep Learning
-- Build Full Stack Applications
-- Contribute to Open Source
-- Crack a Software Development Role
-
----
+```bash
+shubham@github:~$ ls pinned-repos/
+```
 
 <div align="center">
 
-`~/ let's connect`
+<a href="https://github.com/ShubhamDogra04"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamDogra04&repo=REPO_NAME_1&theme=dark&bg_color=0d1117&title_color=2EE85A&icon_color=2EE85A&text_color=c9d1d9&border_color=2EE85A&hide_border=true" /></a>
+<a href="https://github.com/ShubhamDogra04"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamDogra04&repo=REPO_NAME_2&theme=dark&bg_color=0d1117&title_color=2EE85A&icon_color=2EE85A&text_color=c9d1d9&border_color=2EE85A&hide_border=true" /></a>
+
+</div>
+
+```bash
+shubham@github:~$ cat contact.txt
+```
+
+<div align="center">
 
 📧 dograshubham333@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/shubham-dogra-676a85367/)
 
-*"Code. Learn. Build. Repeat."*
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE85A,100:0d1117&height=100&section=footer" />
 
 </div>
