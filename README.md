@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2EE85A&height=200&section=header&text=Shubham%20Dogra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20Java%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2EE85A&height=200&section=header&text=Shubham%20Dogra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" />
 
 <img src="https://github.com/ShubhamDogra04.png" width="140" style="border-radius:50%;margin-top:10px" />
 
@@ -9,7 +10,7 @@
 <br>
 
 ```bash
-shubham@github:~$ whoami
+ who am I
 ```
 
 ```
@@ -21,7 +22,7 @@ shubham@github:~$ whoami
 ```
 
 ```bash
-shubham@github:~$ cat skills.txt
+skills.txt
 ```
 
 <div align="center">
@@ -39,7 +40,7 @@ shubham@github:~$ cat skills.txt
 </div>
 
 ```bash
-shubham@github:~$ ls contribution-calendar/
+ contribution-calendar
 ```
 
 <div align="center">
@@ -49,13 +50,10 @@ shubham@github:~$ ls contribution-calendar/
 </div>
 
 ```bash
-shubham@github:~$ ./stats.sh --all
+Streak
 ```
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShubhamDogra04&show_icons=true&theme=dark&bg_color=0d1117&title_color=2EE85A&icon_color=2EE85A&text_color=c9d1d9&border_color=2EE85A&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamDogra04&layout=compact&theme=dark&bg_color=0d1117&title_color=2EE85A&text_color=c9d1d9&border_color=2EE85A&hide_border=true" />
 
 </div>
 
@@ -66,7 +64,7 @@ shubham@github:~$ ./stats.sh --all
 </div>
 
 ```bash
-shubham@github:~$ cat contact.txt
+ contact.txt
 ```
 
 <div align="center">
