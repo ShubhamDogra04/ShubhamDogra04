@@ -44,7 +44,7 @@ shubham@github:~$ ls contribution-calendar/
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamDogra04&theme=react-dark&bg_color=0d1117&color=2EE85A&line=2EE85A&point=ffffff&hide_border=true)
+![snake](https://raw.githubusercontent.com/ShubhamDogra04/ShubhamDogra04/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -62,17 +62,6 @@ shubham@github:~$ ./stats.sh --all
 <div align="center">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamDogra04&theme=dark&background=0d1117&stroke=2EE85A&ring=2EE85A&fire=2EE85A&currStreakLabel=2EE85A&hide_border=true)
-
-</div>
-
-```bash
-shubham@github:~$ ls pinned-repos/
-```
-
-<div align="center">
-
-<a href="https://github.com/ShubhamDogra04"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamDogra04&repo=REPO_NAME_1&theme=dark&bg_color=0d1117&title_color=2EE85A&icon_color=2EE85A&text_color=c9d1d9&border_color=2EE85A&hide_border=true" /></a>
-<a href="https://github.com/ShubhamDogra04"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShubhamDogra04&repo=REPO_NAME_2&theme=dark&bg_color=0d1117&title_color=2EE85A&icon_color=2EE85A&text_color=c9d1d9&border_color=2EE85A&hide_border=true" /></a>
 
 </div>
 
